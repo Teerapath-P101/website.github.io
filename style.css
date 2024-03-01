@@ -115,12 +115,3 @@
    /* font-family: "Kanit", sans-serif;
    font-weight: 100; */
 }
-
-:root::-webkit-scrollbar{
-  display: none;
-}
-
-:root {
-  scrollbar-width: none;
-  -ms-overflow-style: none;
-}

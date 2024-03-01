@@ -115,3 +115,8 @@
    /* font-family: "Kanit", sans-serif;
    font-weight: 100; */
 }
+
+body {
+  overflow-y: hidden; /* Hide vertical scrollbar */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
